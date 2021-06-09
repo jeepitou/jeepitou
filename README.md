@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and web development.
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on anything really :)
-- 📫 How to reach me: Write to me directly on github
+- 📫 How to reach me: Discord: Jeepitouze#0004
 
 <!---
 jeepitou/jeepitou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
